@@ -13,7 +13,7 @@ import { SchedulePageRoutingModule } from './schedule-routing.module';
     FormsModule,
     IonicModule,
     SchedulePageRoutingModule,
- DpDatePickerModule
+ 
   ],
   declarations: [
     SchedulePage,
